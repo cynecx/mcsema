@@ -12,7 +12,7 @@ deploy:
 - provider: releases
   api_key:
     secure: er496HerYqMKHXLlJro8/tGWg9//xvvjRgEMlQCDyhas3MXKahQdhnNs9ocULfbRrjSHLfjSTfecGRkz6GUp5eOAbHpdKeiD4oTObtMifkYWvdWKsIrli4g4ZcGu0QPNyYv1lSCSKk8lBhvFDS/nhHhpDcVfNrF0EC9HT31/Cpw=
-  file: deb-build/mcsema-*.deb
+  file: deb-build/mcsema_0.1-*.deb
   skip_cleanup: true
   on:
     repo: cynecx/mcsema
