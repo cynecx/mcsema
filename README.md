@@ -1,7 +1,7 @@
 MC-Semantics
 ============
 
-[![Build Status](https://travis-ci.org/trailofbits/mcsema.svg?branch=master)](https://travis-ci.org/trailofbits/mcsema)
+[![Build Status](https://travis-ci.org/trailofbits/mcsema.svg?branch=master)](https://travis-ci.org/cynecx/mcsema)
 
 MC-Semantics (or mcsema, pronounced 'em see se ma') is a library to translate the semantics of native code to LLVM IR. The MC-Semantics project is separated into a few sub-projects: 
   * Control Flow Recovery
